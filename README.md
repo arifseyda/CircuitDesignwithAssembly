@@ -1,0 +1,1 @@
+Keil ve Proteus programlarında gerçeklendirilen assembly ve devrenin içinde bulunan 4 lü 7 display digit' e verilen docs dosyasındaki işlemler yapılmıştır. 
